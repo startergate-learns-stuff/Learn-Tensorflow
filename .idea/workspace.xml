@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6874b2ad-5439-41d3-853c-c2369cd4b503" name="Default Changelist" comment="" />
+    <list default="true" id="6874b2ad-5439-41d3-853c-c2369cd4b503" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/study1/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/study1/Untitled.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
