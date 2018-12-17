@@ -108,3 +108,4 @@ venv.bak/
 
 study1/model/
 study1/logs/
+study1/mnist/
