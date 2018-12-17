@@ -107,3 +107,4 @@ venv.bak/
 .idea/
 
 study1/model/
+study1/logs/
